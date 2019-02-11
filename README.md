@@ -53,9 +53,3 @@ mobile-flash-cards
             colors.js - list of hex colors used for the application
             deckData.js - initial data added for the first two decks
             StorageAPI.js - API used to get, add and modify a deck 
-
-
-
-
-
-
